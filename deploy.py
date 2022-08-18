@@ -4,3 +4,4 @@
 #python3('Hello World')
 #python script
 print('Hello World')
+echo "I need to learn python"
