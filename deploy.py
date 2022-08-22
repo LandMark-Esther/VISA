@@ -6,3 +6,5 @@
 print('Hello World')
 echo "I need to learn python"
 echo "I'm willing to learn python"
+print('hello $user your car needs serving')
+print('car services automated')
